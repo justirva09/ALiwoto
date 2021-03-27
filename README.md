@@ -17,7 +17,7 @@
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dank-del&custom_title=Languages%20I%20fuck%20around%20with%20:3&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliwoto&custom_title=Languages%20I%20fuck%20around%20with%20:3&theme=tokyonight&hide_border=true)
 
 <img >
 <img align="bottom" src="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/fsn146.JPG"/>
