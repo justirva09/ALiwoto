@@ -2,7 +2,7 @@
 <h1> I'm ALi woto!
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 </h1>
-<img align="botom" src="https://gpvc.arturio.dev/aliwoto" width="25px">
+<img align="botom" src="https://gpvc.arturio.dev/aliwoto" width="45px">
 
 </hr>
 <h2>
