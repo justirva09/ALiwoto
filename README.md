@@ -11,7 +11,7 @@
     I really love back-end programming!
    </h2>
   <h2>
-    my favorite languages are:
+    ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
   </h2>
   <h3>
     C
