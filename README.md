@@ -13,4 +13,4 @@
 <img https://gpvc.arturio.dev/aliwoto/>
 
 
-![](https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/fsn146.JPG)
+<img align="bottom" src="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/fsn146.JPG"/>
