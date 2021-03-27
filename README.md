@@ -1,6 +1,8 @@
 
-<h1> I'm ALi woto! </h1>
-<img align="right" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+<h1> I'm ALi woto! 
+  <img align="left" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+</h1>
+
 </hr>
 <h2>I really love back-end programming!</h2>
 <h6>since my design is horrible I try to don't design any graphical things XD</h6>
