@@ -7,8 +7,12 @@
 </hr>
 <h2>
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="45px">
-  I really love back-end programming!
-  my favorite languages are:
+  <h2>
+    I really love back-end programming!
+   </h2>
+  <h2>
+    my favorite languages are:
+  </h2>
   <h3>
     C
     </h3>
