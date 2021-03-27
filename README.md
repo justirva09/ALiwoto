@@ -25,7 +25,4 @@
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=aliwoto&show_icons=true&&theme=tokyonight" />
 
 <!-- kyubey: https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif -->
-
-
-<img >
 <img tag="Artoria_Pendoragon" align="bottom" src="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/fsn146.JPG"/>
