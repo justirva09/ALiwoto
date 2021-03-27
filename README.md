@@ -9,7 +9,7 @@
 
 <img align="left" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="45px">
 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliwoto&layout=compact&langs_count=20" />
 
 
 ![](https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/fsn146.JPG)
