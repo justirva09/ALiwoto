@@ -1,9 +1,9 @@
 
 <h1> I'm ALi woto! </h1>
+<img align="right" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 </hr>
 <h2>I really love back-end programming!</h2>
-<h3>since my design is horrible I try to don't design any graphical things XD</h3>
-<img align="right" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+<h6>since my design is horrible I try to don't design any graphical things XD</h6>
 <hr></hr>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=aliwoto&show_icons=true&&theme=tokyonight" />
