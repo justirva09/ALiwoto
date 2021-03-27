@@ -1,9 +1,9 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aliwoto&show_icons=true" />
+
 <h1> I'm ALi woto! </h1>
 <img align="right" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 <hr></hr>
 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aliwoto&show_icons=true&&theme=tokyonight" />
 
 <!-- kyubey: https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif -->
 
@@ -17,4 +17,4 @@
 
 <h2> la la la la la la </h2>
 
-<img align="bottom" src="xhttps://raw.githubusercontent.com/ALiwoto/ALiwoto/main/fsn146.JPG"/>
+<img align="bottom" src="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/fsn146.JPG"/>
