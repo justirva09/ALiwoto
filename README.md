@@ -1,1 +1,1 @@
-(https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/fsn146.JPG)
+![color](https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/fsn146.JPG)
