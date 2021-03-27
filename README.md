@@ -10,9 +10,7 @@
   <h2>
     I really love back-end programming!
    </h2>
-  <h2>
-    ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-  </h2>
+  ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
   <h3>
     C
     </h3>
