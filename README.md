@@ -1,6 +1,7 @@
 
 <h1> I'm ALi woto!
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+  <img align="botom" src="https://gpvc.arturio.dev/aliwoto/" width="25px">
 </h1>
 
 
@@ -16,5 +17,8 @@
 <!-- kyubey: https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif -->
 
 
-<img https://gpvc.arturio.dev/aliwoto/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dank-del&custom_title=Languages%20I%20fuck%20around%20with%20:3&theme=tokyonight&hide_border=true)
+
+<img >
 <img align="bottom" src="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/fsn146.JPG"/>
