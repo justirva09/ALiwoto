@@ -1,5 +1,8 @@
 
 <h1> I'm ALi woto! </h1>
+<hr></hr>
+<h2>I really love back-end programming!</h2>
+<h3>since my design is horrible I try to don't design any graphical things XD</h3>
 <img align="right" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 <hr></hr>
 
@@ -8,8 +11,6 @@
 <!-- kyubey: https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif -->
 
 <img align="left" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="45px">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliwoto&layout=compact&langs_count=20" />
 <img https://gpvc.arturio.dev/aliwoto/>
 
 
