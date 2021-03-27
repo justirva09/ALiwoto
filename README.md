@@ -1,6 +1,8 @@
 
-<h1> I'm ALi woto!</h1>
-<img align="right" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+<h1> I'm ALi woto!
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+</h1>
+
 
 </hr>
 <h2>
