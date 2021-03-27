@@ -4,7 +4,7 @@
 
 
 
-<! kyubey: https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif >
+<!-- kyubey: https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif -->
 
 <img align="left" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="45px">
 
