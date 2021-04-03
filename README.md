@@ -4,7 +4,7 @@
 		<link rel="stylesheet" href="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/styles/styles1.css"/>
 	</head>
 	<body>
-		<script>
+		<script type="text/javascript">
                         console.log("TEST");
                 </script>
                 <h1>
