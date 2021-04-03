@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-		<link rel="stylesheet" href="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/styles/style1.css"/>
+		<link rel="stylesheet" href="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/resources/styles/style1.css"/>
 	</head>
 	<body>
                 <h1>
