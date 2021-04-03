@@ -5,7 +5,7 @@
 	</head>
 	<body>
 		<script type="text/javascript"
-                        href="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/scripts/scripts1.js">
+                        href="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/scripts/script1.js">
                 </script>
                 <h1>
                         I'm ALi woto!
