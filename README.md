@@ -4,7 +4,9 @@
 		<link rel="stylesheet" href="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/styles/styles1.css"/>
 	</head>
 	<body>
-		<script src="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/scripts/scripts1.js"></script>
+		<script type="text/javascript"
+                        src="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/scripts/scripts1.js">
+                </script>
                 <h1>
                         I'm ALi woto!
                         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"    width="25px">
