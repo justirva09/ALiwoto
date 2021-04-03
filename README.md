@@ -2,9 +2,11 @@
 <html>
 	<head>
 		<link rel="stylesheet" href="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/styles/styles1.css"/>
-		<link rel="script" href="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/resources/scripts/script1.js"/>
 	</head>
 	<body>
+		<script>
+                        console.log("TEST");
+                </script>
                 <h1>
                         I'm ALi woto!
                         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"    width="25px">
