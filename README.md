@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 	<head>
 	</head>
@@ -23,12 +22,12 @@
                 </h3>
                 <h3>
                         <h3>
-                                <img src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-mami.gif" width="45px">
+                                <img src="https://raw.githubusercontent.com/aliwoto/aliwoto/main/resources/soulgem-mami.gif" width="45px">
                                 My favorite character: 
                         </h3>
                         <img id="Artoria_Pendoragon" align="bottom" src="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/fsn146.JPG"/>
                 </h3>
-                <!-- kyubey: https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif -->
+                <!-- kyubey.gif -->
                 <!-- soulgem-homura.gif -->
                 <!-- soulgem-kyoko.gif  -->
                 <!-- soulgem-madoka.gif -->
