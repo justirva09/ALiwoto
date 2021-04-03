@@ -2,9 +2,6 @@
 <h1> I'm ALi woto!
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 </h1>
-
-
-</hr>
 <h2>
   <h2>
     I really love back-end programming!
