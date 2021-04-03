@@ -13,7 +13,7 @@
 </h2>
 <h3>
   my Stats in github:
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aliwoto&show_icons=true&&theme=tokyonight" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=aliwoto&show_icons=true&&theme=tokyonight" />
 </h3>
 <h4>
   My favorite character: 
