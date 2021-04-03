@@ -1,13 +1,12 @@
 
-<h1> I'm ALi woto!
+<h1>
+  I'm ALi woto!
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-</h1>
-<h2>
   <h2>
     I really love back-end programming!
     <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="45px">
    </h2>
-</h2>
+</h1>
 <h3>
   <h3 align="top">
     <img align="botom" src="https://gpvc.arturio.dev/aliwoto" width="145px" height="25">
