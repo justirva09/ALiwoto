@@ -14,8 +14,10 @@
 <h3>
   <h3 align="top">
     <img align="botom" src="https://gpvc.arturio.dev/aliwoto" width="145px" height="25">
-    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-madoka.gif" width="45px">
-    My Stats in github:
+    <h3>
+      <img src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-madoka.gif" width="45px">
+       My Stats in github:
+     </h3>
   </h3>
   <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=aliwoto&show_icons=true&&theme=tokyonight" />
 </h3>
