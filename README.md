@@ -1,12 +1,9 @@
 <!doctype html>
 <html>
 	<head>
-		<link rel="stylesheet" href="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/styles/styles1.css"/>
+		<link rel="stylesheet" href="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/styles/style1.css"/>
 	</head>
 	<body>
-		<script type="text/javascript">
-                        console.log("TEST");
-                </script>
                 <h1>
                         I'm ALi woto!
                         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"    width="25px">
