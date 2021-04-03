@@ -1,7 +1,6 @@
 <!doctype html>
 <html>
 	<head>
-		<link rel="stylesheet" href="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/resources/styles/style1.css"/>
 	</head>
 	<body>
                 <h1>
@@ -9,14 +8,14 @@
                         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"    width="25px">
                         <h2>
                                 I really love back-end programming!
-                                <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="45px">
+                                <img src="https://raw.githubusercontent.com/aliwoto/aliwoto/main/resources/kyubey.gif" width="45px">
                         </h2>
                 </h1>
                 <h3>
                         <h3 align="top">
                                 <img align="botom" src="https://gpvc.arturio.dev/aliwoto" width="145px" height="25">
                                 <h3>
-                                        <img src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-madoka.gif" width="45px">
+                                        <img src="https://raw.githubusercontent.com/aliwoto/aliwoto/main/resources/soulgem-madoka.gif" width="45px">
                                         My Stats in github:
                                 </h3>
                         </h3>
