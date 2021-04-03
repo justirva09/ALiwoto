@@ -1,3 +1,19 @@
+<!doctype html>
+<html>
+	<head>
+		<link rel="stylesheet" href="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/styles/styles1.css"/>
+	</head>
+	<body>
+		<h1> My first Application! </h1>
+		<p> welcome to <i> &Learning Java Script. </i>. </p>
+		<script src="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/scripts/scripts1.js"></script>
+	</body>
+</html>
+
+
+
+
+
 
 <h1>
   I'm ALi woto!
