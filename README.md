@@ -7,8 +7,8 @@
 </hr>
 <h2>
   <h2>
-    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="45px">
     I really love back-end programming!
+    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="45px">
    </h2>
 </h2>
 
