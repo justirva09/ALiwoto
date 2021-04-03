@@ -12,12 +12,22 @@
    </h2>
 </h2>
 <h3>
-  <h3 align="top">my Stats in github:</h3>
+  <h3 align="top">
+    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-madoka.gif" width="45px">
+    My Stats in github:
+  </h3>
   <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=aliwoto&show_icons=true&&theme=tokyonight" />
 </h3>
 <h4>
-  My favorite character: 
+  <h4>
+    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-mami.gif" width="45px">
+    My favorite character: 
+  </h4>
   <img id="Artoria_Pendoragon" align="bottom" src="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/fsn146.JPG"/>
 </h4>
 <!-- kyubey: https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif -->
-
+<!-- soulgem-homura.gif -->
+<!-- soulgem-kyoko.gif  -->
+<!-- soulgem-madoka.gif -->
+<!-- soulgem-mami.gif  -->
+<!-- soulgem-sayaka.gif  -->
