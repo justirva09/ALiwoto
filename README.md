@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<link rel="stylesheet" href="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/styles/styles1.css"/>
-		<link rel="javascript" href="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/resources/scripts/script1.js"/>
+		<link rel="script" href="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/resources/scripts/script1.js"/>
 	</head>
 	<body>
                 <h1>
