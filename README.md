@@ -1,38 +1,68 @@
-<html>
-	<head>
-	</head>
-	<body>
-                <h1>
-                        Hey, I'm ALi woto!
-                        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"    width="25px">
-                        <h2>
-                                I really love back-end programming!
-                                <img src="https://raw.githubusercontent.com/aliwoto/aliwoto/main/resources/kyubey.gif" width="45px">
-                        </h2>
-                </h1>
-                <h3>
-                        <h3 align="top">
-                                <img align="botom" src="https://gpvc.arturio.dev/aliwoto" width="145px" height="25">
-                                <h3>
-                                        <img src="https://raw.githubusercontent.com/aliwoto/aliwoto/main/resources/soulgem-madoka.gif" width="45px">
-                                        My Stats in github:
-                                </h3>
-                        </h3>
-                        <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=aliwoto&show_icons=true&&theme=tokyonight" />
-                </h3>
-                <h3>
-                        <h3>
-                                <img src="https://raw.githubusercontent.com/aliwoto/aliwoto/main/resources/soulgem-mami.gif" width="45px">
-                                My favorite character: 
-                        </h3>
-                        <img id="Artoria_Pendoragon" align="bottom" src="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/fsn146.JPG"/>
-                </h3>
-                <!-- kyubey.gif -->
-                <!-- soulgem-homura.gif -->
-                <!-- soulgem-kyoko.gif  -->
-                <!-- soulgem-madoka.gif -->
-                <!-- soulgem-mami.gif  -->
-                <!-- soulgem-sayaka.gif  -->
-	</body>
-</html>
+<h1>
+	>// I'm ALi woto, a complete Shut-in <img src="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/resources/Arthuria_Pocker_Face.png"	width="35px">
+</h1>
 
+> Name:		ALiwoto					\
+> Version:	v18.0.0					\
+> Edit:		26 July 2003			\
+> By:		ALi.w	
+
+<h2>
+	I'm interested in back-end developing.
+	<img src="https://raw.githubusercontent.com/aliwoto/aliwoto/main/resources/kyubey.gif" width="45px">
+</h2>
+
+<h2>
+
+	* --Shut-ins are zombies.
+		RUDEUS GREYRAT
+		
+</h2>
+
+<h3>
+	<img align="botom" src="https://gpvc.arturio.dev/aliwoto" width="145px" height="25px">
+	<hr/>
+	<details> 
+	<summary align="middle"> 
+	<img src="https://raw.githubusercontent.com/aliwoto/aliwoto/main/resources/soulgem-madoka.gif" width="45px"> 
+	<font size="+12">
+		My GitHub Activities
+	</font>
+	</summary>
+	<h5>&nbsp<h4>
+	<!--=======================-->
+	<h2 align="middle" >
+		<img src="https://github-readme-stats.vercel.app/api?username=aliwoto&show_icons=true&&theme=tokyonight" />
+	<h2>
+	<!--=======================-->
+	<h5>&nbsp<h4>
+	<!--=======================-->
+	<h2 align="middle" >
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliwoto&custom_title=Most%20used%20languages&theme=tokyonight&hide_border=true" width="455px" height="455px" />
+	<h2>
+	<!--=======================-->
+	<h5>&nbsp<h4>
+	</details>
+</h3>
+
+
+<h3>
+	<hr/>
+	<details> 
+	<summary align="middle"> 
+	<img src="https://raw.githubusercontent.com/aliwoto/aliwoto/main/resources/soulgem-madoka.gif" width="45px"> 
+	<font size="+12">
+		My favorite characters
+	</font>
+	</summary>
+	<h5>&nbsp<h4>
+	<!--=======================-->
+	<h2 align="middle" >
+		<img src="https://raw.githubusercontent.com/ALiwoto/ALiwoto/main/fsn146.JPG" />
+	<h2>
+	<!--=======================-->
+	<h5>&nbsp<h4>
+	</details>
+</h3>
+
+<hr/>
